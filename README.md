@@ -60,6 +60,19 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 
 
 
+# Tech Stack
+
+
+## Languages and Azure services used in my bot:
+- HTML
+- QnA maker
+- WebApp Bot
+- JavaScript
+
+
+
+
+
 
 
 
